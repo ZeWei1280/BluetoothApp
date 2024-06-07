@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothApp</string>
+    <string name="bluetooth_status">Bluetooth Status</string>
+    <string name="bt_button">Bt Button</string>
+</resources>
